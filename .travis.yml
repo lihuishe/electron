@@ -5,6 +5,7 @@ notifications:
 
 language: cpp
 compiler: clang
+sudo: true
 os:
   - linux
   - osx
